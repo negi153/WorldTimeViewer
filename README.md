@@ -6,7 +6,7 @@ World Clock Timezone Viewer is a desktop application designed to display the cur
 
 ## Preview
 
-https://github.com/negi153/WorldTimeViewer/assets/27079205/9d1aa748-65d5-4c22-b061-9057a836b7ac
+https://github.com/negi153/WorldTimeViewer/assets/27079205/930ae750-2fb7-49bf-8ec0-a8a88258a66c
 
 ## Features
 1. Comprehensive Timezone Display
